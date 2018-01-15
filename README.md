@@ -7,8 +7,16 @@ This is a vue electron admin project base on  [vueAdmin-template](https://github
 ## Build Setup
 
 ``` bash
+这个是基于 https://github.com/PanJiaChen/vueAdmin-template，
+本人在基础上继续学习开发。
+
+注意：依赖包如果安装不上，可以先执行
+
+ npm install -g cnpm --registry=https://registry.npm.taobao.org
+ 安装淘宝镜像,即可成功
+
 # install dependencies
-npm install
+cnpm install 
 
 # serve with hot reload at localhost:9080
 npm run dev
